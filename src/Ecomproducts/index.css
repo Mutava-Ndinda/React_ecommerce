@@ -1,0 +1,7 @@
+#products{
+    display: grid;
+    grid-template-columns: repeat(5,6fr);
+    gap: 5%;
+    background-color:rgb(210, 233, 176);
+    height: 1288px;
+}

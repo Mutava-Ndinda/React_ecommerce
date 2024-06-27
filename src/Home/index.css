@@ -1,0 +1,39 @@
+#navlist{
+    list-style: none;
+    display: flex;
+    gap: 10%;
+    margin-top: 2%;
+}
+#home{
+    display: flex;
+    gap: 20%;
+    background-color: rgb(186, 190, 199);
+    height: 900px;
+}
+#shoes{
+    width: 90%;
+    margin-top: 3%;
+}
+#bag{
+    width: 400px;
+    margin-left: 20%;
+    margin-top: 30%;
+    background-color: rgb(186, 190, 199); 
+}
+#hood{
+    margin-top: 15%;
+    width: 90%;
+}
+#bbag{
+    background-color: rgb(186, 190, 199); 
+}
+h1{
+    margin-top: 85%;
+    font-size: 39px;
+}
+#paragraph{
+    margin-top: 30%;
+}
+h2{
+    
+}
